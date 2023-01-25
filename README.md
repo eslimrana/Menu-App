@@ -10,6 +10,7 @@
 ```
 https://eslimrana.github.io/Eslim-Rana-Emiroglu-otsimo-internship-task-frontend-2023/
 ```
+- I would recommend you to view my app from your desktop for better experience
 
 - If this doesn't work you can download the repo to ypur local server.
 - Open the directory on terminal and run npm start
