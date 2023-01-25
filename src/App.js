@@ -14,7 +14,7 @@ import Ingredients from './components/Ingredients';
 function App() {
     return (
         <>
-            <Router>
+            <Router basename={process.env.PUBLIC_URL}>
                 <Routes>
                     <Route exact path="/" 
                         element={<Homepage/>} />
